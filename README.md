@@ -24,15 +24,6 @@ CodeGen is a family of autoregressive language models for program synthesis from
 <br>
 Codegen produces python codes on providing appropriate docstring as model prompts.<br>
 Visit codegen on <a href="https://huggingface.co/">Hugging Face</a> <a href="https://huggingface.co/Salesforce/codegen-2B-mono"> Codegen </a> 
-cite codegen at-
-```
-@article{Nijkamp2022ACP,
-  title={A Conversational Paradigm for Program Synthesis},
-  author={Nijkamp, Erik and Pang, Bo and Hayashi, Hiroaki and Tu, Lifu and Wang, Huan and Zhou, Yingbo and Savarese, Silvio and Xiong, Caiming},
-  journal={arXiv preprint},
-  year={2022}
-}
-```
 
 # HumanEval Dataset
 The HumanEval dataset is an infamous set of docstrings made to test functioning of code models made, and rate them. Visit the HumanEval Repository for more information. <br>
