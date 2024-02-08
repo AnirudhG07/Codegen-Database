@@ -28,3 +28,6 @@ Visit codegen on <a href="https://huggingface.co/">Hugging Face</a> <a href="htt
 # HumanEval Dataset
 The HumanEval dataset is an infamous set of docstrings made to test functioning of code models made, and rate them. Visit the HumanEval Repository for more information. <br>
 This repository contains the HumanEval.json file containing those prompts systematically, and their codes generated respectively.
+<br>
+
+To access the full dataset, visit the official <a href="https://www.kaggle.com/datasets/anirudhgupta1729/codegen-humaneval-database"> Kaggle page</a>. More codegen version's datasets are added there. Don't forget to upvote the dataset!
