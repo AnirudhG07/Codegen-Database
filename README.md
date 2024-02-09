@@ -30,4 +30,4 @@ The HumanEval dataset is an infamous set of docstrings made to test functioning 
 This repository contains the HumanEval.json file containing those prompts systematically, and their codes generated respectively.
 <br>
 
-To access the full dataset, visit the official Kaggle <a href="https://www.kaggle.com/datasets/anirudhgupta1729/codegen-humaneval-database"> Codegen HumanEval Database</a> page. More codegen version's datasets are added there. Don't forget to upvote the dataset!
+Visit the official Kaggle <a href="https://www.kaggle.com/datasets/anirudhgupta1729/codegen-humaneval-database"> Codegen HumanEval Database</a> page to download codes from there too. Don't forget to upvote the dataset!
