@@ -39,7 +39,14 @@ This repository contains the HumanEval.json file containing those prompts system
 | 2B |     mono, multi, nl     |      https://github.com/AnirudhG07/Codegen-Database/tree/main/HumanEval/Codegen-2B      | 
 | 350M |     mono, multi, nl     |      https://github.com/AnirudhG07/Codegen-Database/tree/main/HumanEval/Codegen-350M     | 
 <br>
-To compare with gpt-3.5-turbo, 164 codes have also been added <a href="https://github.com/AnirudhG07/Codegen-Database/blob/main/HumanEval/gpt_3.5_turbo_codes.zip"> here </a> . Note: The GPT codes may themselves may not be the correct solution. 
+To compare with gpt-3.5-turbo, 164 codes have also been added <a href="https://github.com/AnirudhG07/Codegen-Database/blob/main/HumanEval/gpt_3.5_turbo_codes.zip"> here </a> . Note: The GPT codes may themselves may not be the correct solution. <br>
+
+**PARAMETERS FOR THE GPT CODES**:
+<ul>
+- Temperature = 0<br>
+- max_tokens = 512<br>
+- top_p = 1<br>
+</ul>
 
 <br>
 Visit the official Kaggle <a href="https://www.kaggle.com/datasets/anirudhgupta1729/codegen-humaneval-database"> Codegen HumanEval Database</a> page to download codes from there too. Don't forget to upvote the dataset!
