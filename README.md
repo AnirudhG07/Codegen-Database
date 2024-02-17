@@ -38,6 +38,8 @@ This repository contains the HumanEval.json file containing those prompts system
 | :-----: | :------------------: | :--------------: |
 | 2B |     mono, multi, nl     |      https://github.com/AnirudhG07/Codegen-Database/tree/main/HumanEval/Codegen-2B      | 
 | 350M |     mono, multi, nl     |      https://github.com/AnirudhG07/Codegen-Database/tree/main/HumanEval/Codegen-350M     | 
+| 6B |     mono, multi, nl     |      https://github.com/AnirudhG07/Codegen-Database/tree/main/HumanEval/Codegen-6B     | 
+
 <br>
 To compare with gpt-3.5-turbo, 164 codes have also been added <a href="https://github.com/AnirudhG07/Codegen-Database/blob/main/HumanEval/gpt_3.5_turbo_codes.zip"> here </a> . Note: The GPT codes may themselves may not be the correct solution. <br>
 
